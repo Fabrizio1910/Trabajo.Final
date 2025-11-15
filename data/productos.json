@@ -1,0 +1,6 @@
+[
+  { "id": 1, "nombre": "Creatina Power Up", "precio": "S/ 120", "imagen": "imagenes/creatina.jpg" },
+  { "id": 2, "nombre": "Barra de Proteína", "precio": "S/ 8", "imagen": "imagenes/barra.jpg" },
+  { "id": 3, "nombre": "FitMass Gainer", "precio": "S/ 140", "imagen": "imagenes/fitmass.jpg" },
+  { "id": 4, "nombre": "Hidratante Power", "precio": "S/ 30", "imagen": "imagenes/hidratante.jpg" }
+]
